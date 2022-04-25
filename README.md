@@ -7,6 +7,12 @@ Example url:
 
 Run:
 
+install dependecies
+
+`pip3 install rich`
+
+run script
+
 `python3 -u ./fetch_uw_practise_midterms.py`
 
 
