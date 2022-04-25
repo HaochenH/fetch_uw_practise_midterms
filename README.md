@@ -1,7 +1,9 @@
 # fetch_uw_practise_midterms.py
 ## A python script that functions to download all files from UW midterm page.
 
-Example url: https://sites.math.washington.edu/~m207/midterm1.php
+Example url: 
+
+https://sites.math.washington.edu/~m207/midterm1.php
 
 Run:
 
