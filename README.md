@@ -1,5 +1,5 @@
 # fetch_uw_practise_midterms.py
-Download all files from UW midterm page.
+## Download all files from UW midterm page.
 
 Example url: https://sites.math.washington.edu/~m207/midterm1.php
 
