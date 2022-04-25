@@ -3,8 +3,8 @@
 
 Example url: https://sites.math.washington.edu/~m207/midterm1.php
 
-
 Run:
+
 `python3 -u ./fetch_uw_practise_midterms.py`
 
 
